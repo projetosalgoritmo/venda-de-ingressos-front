@@ -1,0 +1,7 @@
+{
+  "name": "vendaIngressos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
